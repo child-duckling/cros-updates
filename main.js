@@ -12,7 +12,7 @@ chrome.app.runtime.onLaunched.addListener(function() {
   var height = 300;
 
   chrome.app.window.create('index.html', {
-    id: "helloWorldID",
+    id: "Chrome OS Updates",
     outerBounds: {
       width: width,
       height: height,
