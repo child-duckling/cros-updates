@@ -1,0 +1,22 @@
+{
+  "short_name": "cros.tech",
+  "name": "Chrome OS Updates",
+  "description": "If see this, hi",
+  "icons": [
+    {
+      "src": "/images/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#ff6700",
+}
